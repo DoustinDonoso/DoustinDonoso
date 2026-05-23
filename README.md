@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey, soy Doustin 👋
+Soy un estudiante universitario apasionado del campo **Data Science**, me emociona la idea de convertir datos en decisiones inteligentes,  explorar datasets, construir modelos de ML y encontrar esa historia 
+escondida detrás de los números. Aunque aún estoy iniciando tengo toda la predisposición de llegar muy lejos. 
 
-<!--
-**DoustinDonoso/DoustinDonoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mi stack
+- **Lenguajes:** Python-Basic · SQL-Basic
+- **Herramientas:** Power BI · Google Colab · VS Code · Jupyter notebooks
+- **Intereses:** Ciencia de datos · Machine Learning · Visualización de datos · IA
 
-Here are some ideas to get you started:
+## Actualmente
+- Estoy constantemente aprendiendo cosas nuevas del mundo tech y eplorando nuevas herramientas
+- Abierto a oportunidades laborales y colaboraciones interesantes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hablemos
+Si tienes un proyecto de datos interesante o una oportunidad laboral, 
+¡Estoy dispuesto a colaborar!
