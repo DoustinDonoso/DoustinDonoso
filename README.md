@@ -4,7 +4,7 @@ escondida detrás de los números. Aunque aún estoy iniciando tengo toda la pre
 
 ## Mi stack
 - **Lenguajes:** Python-Basic · SQL-Basic
-- **Herramientas:** Power BI · Google Colab · VS Code · Jupyter notebooks
+- **Herramientas:** Power BI · Google Colab · VS Code · Jupyter notebooks · Excel
 - **Intereses:** Ciencia de datos · Machine Learning · Visualización de datos · IA
 
 ## Actualmente
