@@ -11,6 +11,3 @@ escondida detrás de los números. Aunque aún estoy iniciando tengo toda la pre
 - Estoy constantemente aprendiendo cosas nuevas del mundo tech y eplorando nuevas herramientas
 - Abierto a oportunidades laborales y colaboraciones interesantes
 
-## Hablemos
-Si tienes un proyecto de datos interesante o una oportunidad laboral, 
-¡Estoy dispuesto a colaborar!
