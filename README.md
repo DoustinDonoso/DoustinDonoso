@@ -9,5 +9,4 @@ escondida detrás de los números. Aunque aún estoy iniciando tengo toda la pre
 
 ## Actualmente
 - Estoy constantemente aprendiendo cosas nuevas del mundo tech y eplorando nuevas herramientas
-- Abierto a oportunidades laborales y colaboraciones interesantes
 
